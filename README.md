@@ -6,4 +6,4 @@ Annimation de carrés fun
 
 3) Si on clique sur le bouton déplacer, tous les carrés descendent de 5 pixels et si ils sont en bas, ils remontent de 5 pixels
 
-![exemple](exemple.png)
+![exemple](exemple.PNG)
