@@ -11,4 +11,4 @@ et si ils sont en bas, ils remontent de 5 pixels <br/><br/>
  
 ## Installation
 
-Executer le fichier https://github.com/kwidz/introductionFlash/bin/ExerciceTableauCarre.swf
+Executer le fichier https://github.com/kwidz/introductionFlash/blob/master/bin/ExerciceTableauCarre.swf
