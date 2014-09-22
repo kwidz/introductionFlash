@@ -8,3 +8,7 @@ Annimation de carrés fun
 et si ils sont en bas, ils remontent de 5 pixels <br/><br/>
 {:.center}
 ![exemple](exemple.PNG)
+
+.center {
+  text-align: center;
+}
