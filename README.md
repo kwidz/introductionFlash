@@ -1,5 +1,5 @@
-Annimation de carrés fun 
-========================
+## Annimation de carrés fun 
+
 1) On peut ajouter jusqu'a 10 carrés
 
 2) Si on clique sur un carré il est supprimé 
@@ -8,3 +8,7 @@ Annimation de carrés fun
 et si ils sont en bas, ils remontent de 5 pixels <br/><br/>
 
 ![exemple](exemple.PNG)
+ 
+## Installation
+
+Executer le fichier https://github.com/kwidz/introductionFlash/bin/ExerciceTableauCarre.swf
